@@ -156,17 +156,6 @@ p a:visited {
     color: #5A7C58;
 }
 
-li {
-    font-family: 'Rubik', sans-serif;
-    font-size: 1.2vw;
-    font-weight: lighter;
-    margin: 0;
-    color: #000000;
-    line-height: 30px;
-    padding-left: 5%;
-    padding-right: 5%;
-}
-
 .column1 {
     font-family: 'Rubik', sans-serif;
     font-size: 0.5vw;
@@ -196,6 +185,7 @@ ul {
     color: #000000;
     line-height: 30px;
     padding-left: 5%;
+    padding-right: 5%;
 }
 
 .amacssCoverPic {
