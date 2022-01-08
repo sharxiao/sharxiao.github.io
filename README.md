@@ -1,2 +1,2 @@
 # personal-portfolio
- My personal portfolio site!
+ My portfolio site! Currently learning HTML, CSS, and JavaScript so I thought I'd put it to use :)
