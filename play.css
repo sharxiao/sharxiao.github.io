@@ -126,6 +126,14 @@ p {
     padding-left: 5%;
 }
 
+p a:link {
+    color: #5A7C58;
+}
+
+p a:visited {
+    color: #5A7C58;
+}
+
 .colour {
     color: #769486;
 }
