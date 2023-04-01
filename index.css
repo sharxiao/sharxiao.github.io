@@ -117,6 +117,26 @@ h3 {
     padding-bottom: 3%;
 }
 
+h4 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 32px;
+    margin: 0;
+    color: #000000;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
+
+h5 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    color: #686666;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
+
 p {
     font-size: 18px;
     margin: 0;
@@ -126,6 +146,15 @@ p {
 
 .colour {
     color: #5A7C58;
+}
+
+.bigPic {
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    border: 1px solid black;
 }
 
 .work {
