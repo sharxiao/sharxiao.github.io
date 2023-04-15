@@ -120,6 +120,7 @@ h4 {
     color: #000000;
     line-height: 30px;
     padding-left: 42%;
+    padding-right: 5%;
 }
 
 h5 {
@@ -139,6 +140,7 @@ p {
     color: #000000;
     line-height: 30px;
     padding-left: 5%;
+    padding-right: 5%;
 }
 
 .column1 {
