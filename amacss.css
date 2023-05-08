@@ -1,7 +1,7 @@
 /* general */
 
 body, html {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #000000;
     background-color: #ffffff;
     margin: 0;
@@ -22,7 +22,7 @@ footer .row {
 }
 
 header h1 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     margin: 0;
     color: #000000;
 }
@@ -30,6 +30,8 @@ header h1 {
 .navbar {
     display: flex;
     justify-content: space-between;
+    padding-left: 4%;
+    padding-right: 4%;
 }
 
 .nav {
@@ -42,7 +44,7 @@ header h1 {
     text-align: center;
     padding: 14px 12px;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 16px;
   }
 
 .nav .icon {
@@ -85,7 +87,7 @@ pre {
 }
 
 h1 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 34px;
     margin: 0;
     color: #000000;
@@ -95,7 +97,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     margin: 0;
     color: #000000;
@@ -105,7 +107,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     margin: 0;
     color: #000000;
@@ -116,7 +118,7 @@ h3 {
 }
 
 h4 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     margin: 0;
     color: #686666;
@@ -128,7 +130,7 @@ h4 {
 }
 
 h5 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     margin: 0;
     color: #505050;
@@ -138,9 +140,9 @@ h5 {
 }
 
 p {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
-    font-weight: lighter;
+    font-weight: 300;
     margin: 0;
     color: #000000;
     line-height: 30px;
@@ -157,7 +159,7 @@ p a:visited {
 }
 
 .column1 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.5vw;
     margin: 0;
     padding-left: 5%;
@@ -167,7 +169,7 @@ p a:visited {
 }
 
 .column2 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 1vw;
     margin: 0;
     padding-left: 5%;
@@ -178,9 +180,9 @@ p a:visited {
 }
 
 ul {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
-    font-weight: lighter;
+    font-weight: 300;
     margin: 0;
     color: #000000;
     line-height: 30px;
@@ -238,8 +240,8 @@ ul {
     display: flex;
     padding-left: 0;
     padding-right: 4%;
-    height: 63%;
-    width: 110%;
+    height: 57%;
+    width: 100%;
 }
 
 .visuals {
@@ -294,7 +296,7 @@ footer p {
 }
 
 h6 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Inter', sans-serif;
     text-align: left;
     font-weight: 500;
 }
