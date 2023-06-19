@@ -330,3 +330,16 @@ h6 {
     font-weight: 300;
     padding-left: 5%;
 }
+
+@media screen and (max-width: 500px) {
+    ul {
+        font-family: 'Inter', sans-serif;
+        font-size: 17px;
+        font-weight: 300;
+        margin: 0;
+        color: #000000;
+        line-height: 30px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
