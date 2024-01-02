@@ -170,13 +170,12 @@ p a:visited {
 
 .column2 {
     font-family: 'Inter', sans-serif;
-    font-size: 1vw;
+    font-size: 0.5vw;
     margin: 0;
     padding-left: 5%;
     padding-right: 5%;
-    padding-bottom: 1.5%;
     float: left;
-    width: 50%
+    width: 25%
 }
 
 ul {
@@ -188,6 +187,27 @@ ul {
     line-height: 30px;
     padding-left: 5%;
     padding-right: 5%;
+}
+
+.bullets {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0;
+    color: #000000;
+    line-height: 30px;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.pageCoverPic {
+    position: relative;
+    display: flex;
+    height: 30%;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
 }
 
 .amacssCoverPic {
@@ -290,6 +310,24 @@ ul {
     padding-bottom: 5%;
 }
 
+.section {
+    background-color: #eaefea;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.section h2, .section p, .section-epic h2, .section-epic p, .section-epic ul {
+    margin-left: 19%;
+    margin-right: 19%;
+    color: #000000;
+}
+
+.section-epic {
+    background-color: #f6f6f8;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
 /* footer */
 
 footer {
@@ -341,5 +379,36 @@ h6 {
         line-height: 30px;
         padding-left: 5%;
         padding-right: 5%;
+    }
+
+    .section, .section-epic {
+        padding-top: 15%;
+        padding-bottom: 15%;
+    }
+
+    .section h2, .section p, .section-epic h2, .section-epic p, .section-epic ul {
+        margin-left: 4%;
+        margin-right: 4%;
+        color: #000000;
+    }
+
+    .column1 {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.5vw;
+        margin-bottom: 10%;
+        padding-left: 5%;
+        padding-right: 5%;
+        float: left;
+        width: 50%
+    }
+
+    .column2 {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.5vw;
+        margin-bottom: 30%;
+        padding-left: 5%;
+        padding-right: 5%;
+        float: left;
+        width: 50%
     }
 }
